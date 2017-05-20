@@ -2,4 +2,6 @@
 
 -Cena 1: Tang Lung aparece no aeroporto
 
--Cena 2: Passa vergonha no restaurante
+-Cena 2: Passa vergonha no restaurante do aeroporto por não saber italiano
+
+-Cena 3: Se encaram, ambos se preparam para lutar.
